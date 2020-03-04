@@ -3,8 +3,9 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 Web Applications
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title for Item 1**  
+This is a description for the item above that describes what the item is and what was done in the item.  
+[Github Link](https://www.github.com) | [nbviewer](https://www.github.com)
 
 * **Item 2**  
 Description, Links, Etc. 
