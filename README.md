@@ -2,16 +2,20 @@
 A collection of work from personal projects, academic coursework, and Kaggle competitions.
 
 ### Web Applications
-### Association Rule Learning
+### Web Scraping
+### Data Preprocessing
+### Regression
 ### Classification
 ### Clustering 
-### Data Collection/Preprocessing
+### Association Rule Learning
+### Reinforcement Learning
+### Natural Language Processing
 ### Deep Learning
 ### Dimensionality Reduction
-### Natural Language Processing
 ### Model Selection & Boosting
-### Regression
-### Reinforcement Learning
+
+
+
 
 
 
