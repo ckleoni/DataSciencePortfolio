@@ -3,7 +3,7 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 Web Applications
 ------
-* Item 1
+* **Item 1*  
 Description, Links, Etc.  
 #### Item 2
 Description, Links, Etc.  
