@@ -13,123 +13,112 @@ This is a description for the item above that describes what the item is and wha
 
 Web Scraping
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Data Preprocessing
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Regression
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Classification
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Clustering 
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
 
 Association Rule Learning
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Reinforcement Learning
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
 
 Natural Language Processing
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Deep Learning
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
 Dimensionality Reduction
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Model Selection & Boosting
 ------
-* **Item 1**  
-Description, Links, Etc.  
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
-* **Item 2**  
-Description, Links, Etc. 
-
-* **Item 3**  
-Description, Links, Etc.  
+* **Title of Item Two**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 
