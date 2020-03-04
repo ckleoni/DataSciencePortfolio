@@ -12,8 +12,8 @@ Description, Links, Etc.
 
 Web Scraping
 ------
-#### Item 1
-Description, Links, Etc.  
+   **Item 1**
+   Description, Links, Etc.  
 #### Item 2
 Description, Links, Etc.  
 #### Item 3
