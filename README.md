@@ -9,12 +9,14 @@ Description, Links, Etc.
 Description, Links, Etc.  
 #### Item 3
 Description, Links, Etc.  
-
 Web Scraping
-______
-* Item 1
-* Item 2
-* Item 3
+------
+#### Item 1
+Description, Links, Etc.  
+#### Item 2
+Description, Links, Etc.  
+#### Item 3
+Description, Links, Etc.  
 
 ### Data Preprocessing
 * Item 1
