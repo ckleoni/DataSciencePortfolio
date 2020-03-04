@@ -3,9 +3,12 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 Web Applications
 ------
-**Item 1** - description, linkes, etc.  
-**Item 2** - description, linkes, etc.  
-**Item 3** - description, linkes, etc.  
+###### Item 1
+Description, Links, Etc.  
+###### Item 2
+Description, Links, Etc.  
+###### Item 3
+Description, Links, Etc.  
 
 Web Scraping
 ______
