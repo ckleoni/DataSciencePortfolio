@@ -3,9 +3,12 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 Web Applications
 ---
-Web Scraping
+
+#### Web Scraping
 ---
-* Project 1
+* Item 1
+* Item 2
+* Item 3
 
 Data Preprocessing
 ---
