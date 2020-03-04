@@ -2,7 +2,6 @@
 A collection of work from personal projects, academic coursework, and Kaggle competitions.
 | First Item   | 
 | ------------ |
-| First Item   |
 
 Web Applications
 ------
