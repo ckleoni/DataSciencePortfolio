@@ -9,7 +9,7 @@ This is a description for the item above that describes what the item is and wha
 
 * **Title of Item Two**  
 This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com)   [Other Link](https://www.github.com)  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
 
 Web Scraping
 ------
