@@ -1,17 +1,17 @@
 # Data Science Portfolio - Costa Kleoni
 A collection of work from personal projects, academic coursework, and Kaggle competitions.
 
-#### Web Applications
+### Web Applications
 * Item 1
 * Item 2
 * Item 3
 
-#### Web Scraping
+### Web Scraping
 * Item 1
 * Item 2
 * Item 3
 
-Data Preprocessing
+### Data Preprocessing
 ---
 #### Regression
 #### Classification
