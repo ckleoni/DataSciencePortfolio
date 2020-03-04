@@ -1,6 +1,6 @@
 # Data Science Portfolio - Costa Kleoni
 A collection of work from personal projects, academic coursework, and Kaggle competitions.
-
+[Section 1](https://www.github.com) | [Section 2](https://www.github.com) | [Section 3](https://www.github.com) | [Section 4](https://www.github.com)
 
 Web Applications
 ------
