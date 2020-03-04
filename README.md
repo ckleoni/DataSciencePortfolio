@@ -8,7 +8,7 @@ This is a description for the item above that describes what the item is and wha
 [Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
 * **Numeric Digit Recognizer**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+*This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.*  
 [Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
 
 Web Scraping
