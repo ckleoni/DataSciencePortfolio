@@ -12,7 +12,7 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 * Item 3
 
 ### Data Preprocessing
----
+------
 #### Regression
 #### Classification
 #### Clustering 
