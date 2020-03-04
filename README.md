@@ -2,6 +2,6 @@
 A collection of work from personal projects, academic coursework, and Kaggle competitions.
 
 ## Web Applications
-### ⋅⋅⋅ lkjlkj
+###### lkjlkj
 ## Modeling
 ## Web Scraping
