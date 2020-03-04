@@ -3,7 +3,6 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 | First Item   | 
 | ------------ |
 | First Item   |
-| ------------ |
 
 Web Applications
 ------
