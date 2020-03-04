@@ -1,8 +1,5 @@
 # Data Science Portfolio - Costa Kleoni
 A collection of work from personal projects, academic coursework, and Kaggle competitions. 
-| [Web Applications](https://www.github.com) |
-| ------------ |
-| hello | goodbye |
 
 [Web Applications](https://www.github.com) &nbsp; | &nbsp; [Web Scraping](https://www.github.com) &nbsp; | &nbsp; [Data Preprocessing](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com)
 
