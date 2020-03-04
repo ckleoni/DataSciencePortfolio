@@ -12,20 +12,21 @@ Description, Links, Etc.
 
 Web Scraping
 ------
+#### Item 1
+Description, Links, Etc.  
+#### Item 2
+Description, Links, Etc.  
+#### Item 3
+Description, Links, Etc.   
 
-   **Item 1**  
-   
-   Description, Links, Etc.  
-   
+### Data Preprocessing
+#### Item 1
+Description, Links, Etc.  
 #### Item 2
 Description, Links, Etc.  
 #### Item 3
 Description, Links, Etc.  
 
-### Data Preprocessing
-* Item 1
-* Item 2
-* Item 3
 ### Regression
 ### Classification
 ### Clustering 
