@@ -5,7 +5,7 @@ Web Applications
 ------
 * **TITLE FOR ITEM 1**  
 [Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
-This is a description for the item above that describes what the item is and what was done in the item.  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
 
 * **Item 2**  
 Description, Links, Etc. 
