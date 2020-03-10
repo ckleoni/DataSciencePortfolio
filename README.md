@@ -27,13 +27,9 @@ This is a description for the item above that describes what the item is and wha
 
 Data Preprocessing
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Data_Preprocessing (Python)**  
+This notebook briefly walks through how to import libraries, import a dataset, explore a dataset, handle missing data, handle categorical features, divide data into training/test sets, and scale features. Libraries used: numpy, matplotlib, pandas, sklearn.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing.ipynb)
 
 Regression
 ------
