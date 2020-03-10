@@ -30,7 +30,7 @@ Data Preprocessing
 * **Data Preprocessing Example**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
 This notebook briefly walks through how to import libraries, import a dataset, explore a dataset, handle missing data, handle categorical features, divide data into training/test sets, and scale features.  
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing.ipynb)
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing_Example.ipynb)
 
 Regression
 ------
