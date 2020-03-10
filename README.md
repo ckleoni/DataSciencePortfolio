@@ -27,9 +27,10 @@ This is a description for the item above that describes what the item is and wha
 
 Data Preprocessing
 ------
-* **Data_Preprocessing | Python (numpy, matplotlib, pandas, sklearn)**  
+* **Data_Preprocessing**  
+*Python (numpy, matplotlib, pandas, sklearn)*  
 This notebook briefly walks through how to import libraries, import a dataset, explore a dataset, handle missing data, handle categorical features, divide data into training/test sets, and scale features.  
-   [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing.ipynb)
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing.ipynb)
 
 Regression
 ------
