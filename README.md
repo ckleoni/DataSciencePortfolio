@@ -30,106 +30,81 @@ Data Preprocessing
 * **Data Preprocessing Example**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
 This notebook briefly walks through how to import libraries, import a dataset, explore a dataset, handle missing data, handle categorical features, divide data into training/test sets, and scale features.  
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing_Example.ipynb)
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Data_Preprocessing.ipynb)
 
 Regression
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Using Simple Linear Regression to predict Salary based on Years of Experience**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Classification
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Clustering 
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Association Rule Learning
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Reinforcement Learning
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Natural Language Processing
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Deep Learning
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Dimensionality Reduction
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Model Selection & Boosting
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Simulation
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
 
 Actuarial Science
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
+* **Example**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
