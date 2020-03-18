@@ -1,0 +1,151 @@
+State,Age,Salary,Purchased
+Texas,44,72000,No
+New York,27,48000,Yes
+California,30,54000,No
+New York,38,61000,No
+California,40,,Yes
+Texas,35,58000,Yes
+New York,,52000,No
+Texas,48,79000,Yes
+California,50,83000,No
+Texas,37,67000,Yes
+Texas,42,67000,No
+New York,25,43000,Yes
+California,,49000,No
+New York,36,56000,No
+California,38,61000,Yes
+Texas,33,,Yes
+New York,29,47000,No
+Texas,46,74000,Yes
+California,48,78000,No
+Texas,35,62000,Yes
+Texas,39,62000,No
+New York,22,38000,Yes
+California,25,44000,No
+New York,33,51000,No
+California,,48000,Yes
+Texas,35,,Yes
+New York,43,69000,No
+Texas,,69000,Yes
+California,45,73000,No
+Texas,32,57000,Yes
+Texas,37,57000,No
+New York,21,33000,Yes
+California,,39000,No
+New York,31,46000,No
+California,33,51000,Yes
+Texas,28,39000,Yes
+New York,24,,No
+Texas,41,64000,Yes
+California,43,68000,No
+Texas,30,52000,Yes
+Texas,49,77000,No
+New York,32,53000,Yes
+California,35,59000,No
+New York,43,66000,No
+California,45,,Yes
+Texas,40,63000,Yes
+New York,,57000,No
+Texas,53,84000,Yes
+California,55,88000,No
+Texas,42,72000,Yes
+Texas,47,72000,No
+New York,30,48000,Yes
+California,,54000,No
+New York,41,61000,No
+California,43,66000,Yes
+Texas,38,,Yes
+New York,34,52000,No
+Texas,51,79000,Yes
+California,53,83000,No
+Texas,40,67000,Yes
+Texas,44,67000,No
+New York,27,43000,Yes
+California,30,49000,No
+New York,38,56000,No
+California,,53000,Yes
+Texas,40,,Yes
+New York,48,74000,No
+Texas,,74000,Yes
+California,50,78000,No
+Texas,37,62000,Yes
+Texas,42,62000,No
+New York,26,38000,Yes
+California,,44000,No
+New York,36,51000,No
+California,38,56000,Yes
+Texas,33,44000,Yes
+New York,29,,No
+Texas,46,69000,Yes
+California,48,73000,No
+Texas,35,57000,Yes
+Texas,36,66000,Yes
+Texas,41,66000,No
+New York,24,42000,Yes
+California,,48000,No
+New York,35,55000,No
+California,37,60000,Yes
+Texas,32,,Yes
+New York,28,46000,No
+Texas,45,73000,Yes
+California,47,77000,No
+Texas,34,61000,Yes
+Texas,38,61000,No
+New York,21,37000,Yes
+California,24,43000,No
+New York,32,50000,No
+California,,47000,Yes
+Texas,34,,Yes
+New York,42,68000,No
+Texas,,68000,Yes
+California,44,72000,No
+Texas,31,56000,Yes
+Texas,36,56000,No
+New York,21,32000,Yes
+California,,38000,No
+New York,30,45000,No
+California,32,50000,Yes
+Texas,27,38000,Yes
+New York,23,,No
+Texas,40,63000,Yes
+California,42,67000,No
+Texas,29,51000,Yes
+Texas,48,76000,No
+New York,31,52000,Yes
+California,34,58000,No
+New York,42,65000,No
+California,44,,Yes
+Texas,39,62000,Yes
+New York,,56000,No
+Texas,52,83000,Yes
+California,54,87000,No
+Texas,41,71000,Yes
+Texas,46,71000,No
+New York,29,47000,Yes
+California,,53000,No
+New York,40,60000,No
+California,42,65000,Yes
+Texas,37,,Yes
+New York,33,51000,No
+Texas,50,78000,Yes
+California,52,82000,No
+Texas,39,66000,Yes
+Texas,43,66000,No
+New York,26,42000,Yes
+California,29,48000,No
+New York,37,55000,No
+California,,52000,Yes
+Texas,39,,Yes
+New York,47,73000,No
+Texas,,73000,Yes
+California,49,77000,No
+Texas,36,61000,Yes
+Texas,41,61000,No
+New York,25,37000,Yes
+California,,43000,No
+New York,35,50000,No
+California,37,55000,Yes
+Texas,32,43000,Yes
+New York,28,,No
+Texas,45,68000,Yes
+California,47,72000,No
