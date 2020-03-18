@@ -3,7 +3,7 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 [Web Applications](https://www.github.com) &nbsp; | &nbsp; [Web Scraping](https://www.github.com) &nbsp; | &nbsp; [Data Preprocessing](https://www.github.com) &nbsp; | &nbsp; [Regression](https://www.github.com) &nbsp; | &nbsp; [Classification](https://www.github.com) &nbsp; | &nbsp; [Clustering](https://www.github.com)       
 [Association Rule Learning](https://www.github.com) &nbsp; | &nbsp; [Reinforcement Learning](https://www.github.com) &nbsp; | &nbsp; [Natural Language Processing](https://www.github.com) &nbsp; | &nbsp; [Deep Learning](https://www.github.com)      
-[Dimensionality Reduction](https://www.github.com) &nbsp; | &nbsp; [Model Selection & Boosting](https://www.github.com) &nbsp; | &nbsp; [Simulation](https://www.github.com) &nbsp; | &nbsp; [Actuarial](https://www.github.com)         
+[Dimensionality Reduction](https://www.github.com) &nbsp; | &nbsp; [Model Selection & Boosting](https://www.github.com) &nbsp; | &nbsp; [Simulation](https://www.github.com) &nbsp; | &nbsp; [Actuarial Science](https://www.github.com)         
 
 Web Applications
 ------
@@ -123,6 +123,12 @@ This is a description for the item above that describes what the item is and wha
 [Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
 
 Simulation
+------
+* **Title of Item One**  
+This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
+[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
+
+Actuarial Science
 ------
 * **Title of Item One**  
 This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
