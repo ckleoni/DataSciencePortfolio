@@ -192,14 +192,14 @@ This notebook illustrates how to use XG Boost to predict Customer Churn Rate for
 
 Simulation
 ------
-* **Example**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.  
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+* **Airport Security Simulation - Determine optimal number of ID check stations and personal scanners to reduce wait times to under 15 minutes**  
+*Python (SimPy, NumPy, random)*  
+This notebook illustrates how to use SimPy to simulate Airport Security and determine optimal number of ID Check Stations and Personal Scanners to reduce wait times to under 15 minutes.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Airport_Security_Simulation.ipynb)  
 
 Actuarial Science
 ------
-* **Example**  
+* **Insurance Premium Calculator - Calculating insurance premium using chain ladder method for loss development**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.  
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+This notebook illustrates how to use Chain Ladder method for loss development to calculate insurance premium.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Insurance_Premium_Calculator.ipynb)  
