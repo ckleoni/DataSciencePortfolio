@@ -194,12 +194,12 @@ Simulation
 ------
 * **Airport Security Simulation - Determine optimal number of ID check stations and personal scanners to reduce wait times to under 15 minutes**  
 *Python (SimPy, NumPy, random)*  
-This notebook illustrates how to use SimPy to simulate Airport Security and determine optimal number of ID Check Stations and Personal Scanners to reduce wait times to under 15 minutes.
+This notebook illustrates how to use SimPy to simulate Airport Security and determine optimal number of ID Check Stations and Personal Scanners to reduce wait times to under 15 minutes.  
 [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Airport_Security_Simulation.ipynb)  
 
 Actuarial Science
 ------
 * **Insurance Premium Calculator - Calculating insurance premium using chain ladder method for loss development**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Chain Ladder method for loss development to calculate insurance premium.
+*Python (NumPy, pandas)*  
+This notebook illustrates how to use Chain Ladder method for loss development to calculate insurance premium.  
 [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Insurance_Premium_Calculator.ipynb)  
