@@ -7,7 +7,7 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 
 Web Applications
 ------
-* **Title of Item One**  
+* **Worldwide Earthquake Forecaster - Predicting earthquakes in real time and visualizing results in Google Maps**  
 This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
 [Github Link](https://www.github.com) | [Other Link](https://www.github.com)
 
