@@ -8,12 +8,9 @@ A collection of work from personal projects, academic coursework, and Kaggle com
 Web Applications
 ------
 * **Worldwide Earthquake Forecaster - Predicting earthquakes in real time and visualizing results in Google Maps**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)  
+*Python (NumPy, Matplotlib, pandas, scikit-learn, XG Boost), HTML, Google Maps, Flask, PythonAnywhere*  
+This project includes exploring an earthquake dataset, applying geo-based and rapid mapping techniques, applying feature engineering and aggregation techniques, fitting XG Boost model to predict likelihood of earthquakes at future dates, building a local Flask web application using an HTML slider and Google Maps, and uploading web application to Python Anywhere.  
+[View Web App](http://ckleoni.pythonanywhere.com/) | [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Worldwide_Earthquake_Forecaster.ipynb) | [View Code: main.py](https://github.com/ckleoni/DataSciencePortfolio/blob/master/WEF_main.py) | [View Code: HTML](https://github.com/ckleoni/DataSciencePortfolio/blob/master/WEF.html)
 
 Web Scraping
 ------
