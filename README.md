@@ -17,13 +17,10 @@ This is a description for the item above that describes what the item is and wha
 
 Web Scraping
 ------
-* **Title of Item One**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com)
-
-* **Title of Item Two**  
-This is a description for the item above that describes what the item is and what was done in the item. Try to make the description as detailed a spossible to showacase what was done.  
-[Github Link](https://www.github.com) | [Other Link](https://www.github.com) 
+* **eSports Earnings - Compiling year over year player earnings by game title**  
+*Python (TBD)*  
+TBD
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/TBD)
 
 Data Preprocessing
 ------
