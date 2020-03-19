@@ -17,9 +17,9 @@ This is a description for the item above that describes what the item is and wha
 
 Web Scraping
 ------
-* **eSports Earnings - Compiling eSports player annual eanrings, by game title, game series, and game genre**  
+* **eSports Earnings - Compiling eSports player annual earnings, by game title, game series, and game genre**  
 *Python (Scrapy, NumPy, Matplotlib, pandas)*  
-This project includes developing two spiders to crawl a website and compile total eSports player earnings year over year, and by game title, game series, and game genre. There is also a Jupyter notebook that explores this dataset and determines which games/genres are most profitable.
+This project includes developing two spiders to crawl a website and compile total eSports player earnings year over year, and by game title, game series, and game genre. There is also a Jupyter notebook that explores this dataset and determines which games/genres are most profitable.  
 [View Code: Spider 1](https://github.com/ckleoni/DataSciencePortfolio/blob/master/game_earnings.py) | [View Code: Spider 2](https://github.com/ckleoni/DataSciencePortfolio/blob/master/game_genres.py) | [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/eSports_Earnings.ipynb)
 
 Data Preprocessing
