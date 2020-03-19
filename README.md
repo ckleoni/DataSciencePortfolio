@@ -86,7 +86,7 @@ This notebook illustrates how to use a Support Vector Machine to predict likelih
 This notebook illustrates how to use a Kernel Support Vector Machine to predict likelihood of Purchase based on Age and Estimated Salary, view accuracy via Confusion Matrix, and visualize results.
 [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Kernel_Support_Vector_Machine.ipynb)  
 
-* **Naive_Bayes - Predicting likelihood of purchase based on age and estimated salary**  
+* **Naive Bayes - Predicting likelihood of purchase based on age and estimated salary**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
 This notebook illustrates how to use Naive Bayes to predict likelihood of Purchase based on Age and Estimated Salary, view accuracy via Confusion Matrix, and visualize results.
 [View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Naive_Bayes.ipynb)  
@@ -115,45 +115,80 @@ This notebook illustrates how to use Hierarchical Clustering to Cluster Customer
 
 Association Rule Learning
 ------
-* **Example**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+* **Apriori - Determining purchasing relationship between grocery items**  
+*Python (NumPy, Matplotlib, pandas, apyori)*  
+This notebook illustrates how to use Apriori to determinine purchasing relationship between grocery items and view results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Apriori.ipynb)  
+
+* **Eclat - Determining purchasing relationship between grocery items**  
+*R (arules)*  
+This notebook illustrates how to use Eclat to determinine purchasing relationship between grocery items and view results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Eclat.pdf)  
 
 Reinforcement Learning
 ------
-* **Example**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+* **Upper Confidence Bound - Optimizing ad click through rate**  
+*Python (NumPy, Matplotlib, pandas, math)*  
+This notebook illustrates how to use Upper Confidence Bound to optimize Ad Click Through Rate and visualize ad selections.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Upper_Confidence_Bound.ipynb)  
+
+* **Thompson Sampling - Optimizing ad click through rate**  
+*Python (NumPy, Matplotlib, pandas, random)*  
+This notebook illustrates how to use Thompson Sampling to optimize Ad Click Through Rate and visualize ad selections.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Thompson_Sampling.ipynb)  
 
 Natural Language Processing
 ------
-* **Example**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+* **Natural Language Processing - Predicting if a review is positive or negative**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn, Natural Language Toolkit, Regular expression)*  
+This notebook illustrates how to use Natural Language Processing to predict if a review is positive or negative, clean text data, create Bag of Words model, fit Naive bayes to training set, and view accuracy via Confusion Matrix.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Natural_Language_Processing.ipynb)  
 
 Deep Learning
 ------
-* **Example**  
-*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+* **Artificial Neural Network - Predicting customer churn rate at a financial institution**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn, Keras)*  
+This notebook illustrates how to implement an Artificial Neural Network to predict Customer Churn Rate at a Financial Institution, encode categorical data, scale features, initialize/compile/fit multi-layer Artificial Neural Network, and view accuracy via Confusion Matrix.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Artificial_Neural_Network.ipynb)  
+
+* **Convolutional Neural Network - Classifying images of cat and dogs**  
+*Python (Keras)*  
+This notebook illustrates how to implement a Convolutional Neural Network to classify images of cats and dogs, initialize/compile/fit multi-layer Convolutional Neural Network, and apply Convolution/Pooling/Flattening/Full Connection.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Convolutional_Neural_Network.ipynb) 
 
 Dimensionality Reduction
 ------
-* **Example**  
+* **Principal Component Analysis - Extracting new independent variables from wine dataset to classify customer segments**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+This notebook illustrates how to use Principal Component Analysis to extract new independent variables from wine dataset to classify customer segments, fit Logistic Regression model based on new independent variables, view accuracy via Confusion Matrix, and visualize results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Principal_Component_Analysis.ipynb)  
+
+* **Linear Discriminant Analysis - Extracting new independent variables from wine dataset to classify customer segments**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Linear Discriminant Analysis to extract new independent variables from wine dataset to classify customer segments, fit Logistic Regression model based on new independent variables, view accuracy via Confusion Matrix, and visualize results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Linear_Discriminant_Analysis.ipynb)  
+
+* **Kernel Principal Component Analysis - Extracting new independent variables to predict likelihood of purchase based on age and estimated salary**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Principal Component Analysis to extract new independent variables to predict likelihood of Purchase based on Age and Estimated salary, fit Logistic Regression model based on new independent variables, view accuracy via Confusion Matrix, and visualize results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Kernel_Principal_Component_Analysis.ipynb)  
 
 Model Selection & Boosting
 ------
-* **Example**  
+* **k-Fold Cross Validation - Testing accuracy of Kernel Support Vector Machine model**  
 *Python (NumPy, Matplotlib, pandas, scikit-learn)*  
-This notebook illustrates how to use Simple Linear Regression to predict Salary based on Years of Experience and visualize results of our training and test set predictions.
-[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Simple_Linear_Regression.ipynb)  
+This notebook illustrates how to use k-Fold Cross Validation to test accuracy of a Kernel Support Vector Machine model, view accuracy via Confusion Matrix, and visualizing results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/k_Fold_Cross_Validation.ipynb)  
+
+* **Grid Search - Determining best model and best parameters of a Kernel Support Vector Machine**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn)*  
+This notebook illustrates how to use Grid Search to determine best model and best parameters of a Kernel Support Vector Machine, view accuracy via Confusion Matrix, and visualizing results.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/Grid_Search.ipynb) 
+
+* **XG Boost - Predicting customer churn rate for a financial institution**  
+*Python (NumPy, Matplotlib, pandas, scikit-learn, XGBoost)*  
+This notebook illustrates how to use XG Boost to predict Customer Churn Rate for a Financial Institution, encode categorical data, scale features, view accuracy via Confusion Matrix, and apply k-Fold Cross Validation to show model accuracy.
+[View Notebook](https://github.com/ckleoni/DataSciencePortfolio/blob/master/XG_Boost.ipynb) 
 
 Simulation
 ------
